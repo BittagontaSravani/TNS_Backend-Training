@@ -2,7 +2,7 @@
 package mypack;
 //Demo for types of variables
 public class Student {
-	//instance variable
+	//instances variable
 	int rollno;
 	String name;
 	String branch;
