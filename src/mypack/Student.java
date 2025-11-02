@@ -1,3 +1,4 @@
+// Demo for types of variables using Employee class
 package mypack;
 //Demo for types of variables
 public class Student {
